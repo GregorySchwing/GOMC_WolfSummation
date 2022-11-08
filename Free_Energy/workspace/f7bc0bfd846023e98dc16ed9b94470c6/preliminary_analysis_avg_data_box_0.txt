@@ -1,0 +1,2 @@
+temp_K                         solute                         dFE_MBAR_kcal_per_mol          dFE_MBAR_std_kcal_per_mol      dFE_TI_kcal_per_mol            dFE_TI_std_kcal_per_mol        dFE_BAR_kcal_per_mol           dFE_BAR_std_kcal_per_mol        
+298.0                          ETOH                           -5.084731608892805             0.021625823802605762           -5.2773793174842725            0.023945028644504974           -5.190810863528147             0.01716384057657822             
